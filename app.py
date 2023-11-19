@@ -21,7 +21,7 @@ def hide_streamlit_style():
 def home_page():
  
     logo_path = "logo.jpg" 
-    st.image(logo_path, width=200, caption="Pet Clinic Logo")
+    st.image(logo_path, width=200, caption="Pet Clinic ")
     st.title("Welcome to the Pet Clinic App!")
     st.subheader("Our Services:")
     services = ["Vaccinations", "Check-ups", "Surgery", "Dental Care", "Emergency Care"]
