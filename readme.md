@@ -25,21 +25,24 @@
 
 # Getting Started
 To run this Pet Clinic Management App locally, follow these steps:
-
-Clone the repository:
-
+1. Clone this repository:
 
    ```bash
-        git clone https://github.com/harichselvamc/Pet-Clinic-Management.git
+   git clone https://github.com/harichselvamc/Pet-Clinic-Management/
 
 
-Install the required dependencies:
+2. Change the directory to the project folder:
 
-       ```bash
-               pip install -r requirements.txt
-Run the application:
+   ```bash
+    cd  Pet-Clinic-Management
+   
+3. Install the required dependencies using pip:
 
-        ```bash
+   ```bash
+    pip install -r requirements.txt
 
-                streamlit run app.py
 
+4. Run the Streamlit app:
+
+   ```bash
+    streamlit run app.py
