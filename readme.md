@@ -28,7 +28,7 @@ To run this Pet Clinic Management App locally, follow these steps:
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/harichselvamc/Pet-Clinic-Management/
+   git clone https://github.com/harichselvamc/Pet-Clinic-Management
 
 
 2. Change the directory to the project folder:
